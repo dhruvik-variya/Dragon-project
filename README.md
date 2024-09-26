@@ -36,7 +36,7 @@ Welcome to the **Dragon Animation Project**, an exciting web-based animation bui
 
 ## 🚀 Live Demo
 
-👉 **[Click here](#)** to view the live demo of the project. 
+👉 **[Click here](https://dragon-project.pages.dev/)** to view the live demo of the project. 
 <br>
 <br> 
 
@@ -125,9 +125,7 @@ Feel free to personalize this project by modifying the following:
 Contributions are welcome! If you'd like to improve or add features to this project, please feel free to submit a pull request. You can also open issues for suggestions or bug reports.
 
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
+ 
 
 <br>
 
